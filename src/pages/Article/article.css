@@ -1,0 +1,19 @@
+.text-center {
+    text-align: center;
+}
+.my-3 {
+    margin: 1.5em 0;
+}
+.border-bottom-green {
+    border-bottom: 1px solid #aaaaaa;
+}
+.w-50 {
+    width: 50% !important;
+}
+ul{
+    list-style: none;
+}
+.mx-auto {
+    margin-right: auto;
+    margin-left: auto;
+}

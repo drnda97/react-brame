@@ -1,0 +1,25 @@
+.header {
+    background: #aaa;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.logoWrap {
+    margin-right: auto;
+    font-size: 300%;
+}
+
+.menuWrap {
+    display: flex;
+    align-items: center;
+}
+
+.menuWrap a {
+    padding: 0 10px;
+    color: #000000;
+    text-decoration: none;
+}
+.menuWrap span {
+    cursor: pointer;
+}

@@ -1,0 +1,20 @@
+aside{
+    min-width: 200px;
+    background: #aaaaaa;
+    display: flex;
+    flex-direction: column;
+    padding: 2% 0;
+}
+aside a{
+    display: inline-block;
+    width: 90%;
+    color: #000000;
+    text-decoration: none;
+    text-align: center;
+    margin: 2% auto;
+    border-bottom: 1px solid #000000;
+}
+aside a:hover{
+    color: #FFFFFF;
+    border-bottom: 1px solid #ffffff;
+}
